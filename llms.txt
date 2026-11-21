@@ -1,0 +1,25 @@
+# AI Crawler Rules
+> robots.txt checker and generator for 20 AI and search crawler tokens, sourced from operator docs (2026-11-20).
+
+- Checker: https://basileion.github.io/ai-crawlers/
+- Guide: https://basileion.github.io/ai-crawlers/guides/block-ai-training-keep-ai-search/
+- GPTBot (OpenAI): https://basileion.github.io/ai-crawlers/bots/gptbot/ source https://platform.openai.com/docs/bots
+- OAI-SearchBot (OpenAI): https://basileion.github.io/ai-crawlers/bots/oai-searchbot/ source https://platform.openai.com/docs/bots
+- ChatGPT-User (OpenAI): https://basileion.github.io/ai-crawlers/bots/chatgpt-user/ source https://platform.openai.com/docs/bots
+- OAI-AdsBot (OpenAI): https://basileion.github.io/ai-crawlers/bots/oai-adsbot/ source https://platform.openai.com/docs/bots
+- ClaudeBot (Anthropic): https://basileion.github.io/ai-crawlers/bots/claudebot/ source https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler
+- Claude-SearchBot (Anthropic): https://basileion.github.io/ai-crawlers/bots/claude-searchbot/ source https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler
+- Claude-User (Anthropic): https://basileion.github.io/ai-crawlers/bots/claude-user/ source https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler
+- PerplexityBot (Perplexity): https://basileion.github.io/ai-crawlers/bots/perplexitybot/ source https://docs.perplexity.ai/guides/bots
+- Perplexity-User (Perplexity): https://basileion.github.io/ai-crawlers/bots/perplexity-user/ source https://docs.perplexity.ai/guides/bots
+- Google-Extended (Google): https://basileion.github.io/ai-crawlers/bots/google-extended/ source https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers
+- Googlebot (Google): https://basileion.github.io/ai-crawlers/bots/googlebot/ source https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers
+- GoogleOther (Google): https://basileion.github.io/ai-crawlers/bots/googleother/ source https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers
+- Google-CloudVertexBot (Google): https://basileion.github.io/ai-crawlers/bots/google-cloudvertexbot/ source https://developers.google.com/search/docs/crawling-indexing/google-common-crawlers
+- Applebot (Apple): https://basileion.github.io/ai-crawlers/bots/applebot/ source https://support.apple.com/en-us/119829
+- Applebot-Extended (Apple): https://basileion.github.io/ai-crawlers/bots/applebot-extended/ source https://support.apple.com/en-us/119829
+- CCBot (Common Crawl): https://basileion.github.io/ai-crawlers/bots/ccbot/ source https://commoncrawl.org/ccbot
+- meta-externalagent (Meta): https://basileion.github.io/ai-crawlers/bots/meta-externalagent/ source https://developers.facebook.com/docs/sharing/webmasters/web-crawlers/
+- meta-webindexer (Meta): https://basileion.github.io/ai-crawlers/bots/meta-webindexer/ source https://developers.facebook.com/docs/sharing/webmasters/web-crawlers/
+- meta-externalfetcher (Meta): https://basileion.github.io/ai-crawlers/bots/meta-externalfetcher/ source https://developers.facebook.com/docs/sharing/webmasters/web-crawlers/
+- facebookexternalhit (Meta): https://basileion.github.io/ai-crawlers/bots/facebookexternalhit/ source https://developers.facebook.com/docs/sharing/webmasters/web-crawlers/
